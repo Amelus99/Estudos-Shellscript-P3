@@ -1,0 +1,25 @@
+    1  history -w
+    2  ifdown enp0s3
+    3  vim /etc/network/interfaces
+    4  ifup enp0s3
+    5  ip address show
+    6  ping 192.168.0.1
+    7  ping 8.8.8.8
+    8  ping www.ifpb.edu.br
+    9  traceroute -q1 -I -N 0 www.google.com.br
+   10  cp /etc/network/interfaces ~aluno
+   11  whomi
+   12  user
+   13  tail /var/log/auth.log
+   14  cp /etc/network/interfaces ~ifpb
+   15  hwo
+   16  who
+   17  lastlog
+   18  chown ifpb.ifpb ~ifpb/interfaces 
+   19  ping 192.168.0.113
+   20  vim /etc/network/interfaces
+   21  systemctl restart networking
+   22  ip address show 
+   23  ping 8.8.8.8
+   24  ping www.ifpb.edu.br
+   25  history > ~ifpb/comandos-root-debian.txt
