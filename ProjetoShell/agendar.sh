@@ -1,1 +1,1 @@
-yad --title="agendar processo"
+yad --center --width=500 --height=500 --title="agendar processo"
