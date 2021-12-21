@@ -1,1 +1,1 @@
-yad --title="iniciar processo"
+yad --center --width=500 --height=500 --title="iniciar processo"

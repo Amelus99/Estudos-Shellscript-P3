@@ -21,7 +21,7 @@ GUI=$(yad --notebook --center --width=900 --height=650 --title="Gerenciador de p
     --button="filtar por usuario" \
     --button="matar processo: bash -c './sub-matar.sh'" \
     --button="Agendar processo:bash -c './sub-agendar.sh'"	\
-    --button="Start process:bash -c './startproc.sh'"	\
+    --button="Iniciar processo:bash -c './sub-iniciar.sh'"	\
     --button="sair"     \
 	--key=${KEY} --tab="Processos" --tab="Recursos" --tab="Especificações"
     )

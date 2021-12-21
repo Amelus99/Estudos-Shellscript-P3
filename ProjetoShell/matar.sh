@@ -1,1 +1,1 @@
-yad --title="matar processo"
+yad --center --width=500 --height=500 --title="matar processo"
