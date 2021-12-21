@@ -32,6 +32,3 @@ case $action in
 esac
 
 eval exec $cmd
-
-
-#yad --center --width=500 --height=500 --title="agendar processo"
