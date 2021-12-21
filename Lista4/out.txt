@@ -1,0 +1,9 @@
+total 28
+-rw-rw-r-- 1 samuel samuel  127 dez 21 02:38 downloads.txt
+-rwxrwxrwx 1    777 samuel  252 dez 21 01:52 L4Q1.sh
+-rwxrwxr-x 1 samuel samuel  249 dez 21 01:55 L4Q2.sh
+-rwxrwxr-x 1 samuel samuel 1683 dez 21 02:08 L4Q3.sh
+-rwxrwxr-x 1 samuel samuel  114 dez 21 02:18 L4Q4.sh
+-rwxrwxr-x 1 samuel samuel   80 dez 21 02:20 L4Q5.sh
+-rw-rw-r-- 1 samuel samuel  412 dez 21 02:49 nomes.txt
+-rw-rw-r-- 1 samuel samuel    0 dez 21 02:51 out.txt
