@@ -18,10 +18,11 @@ eval exec yad --plug=${KEY} --tabnum=3 --image=drive-harddisk --text="Disk\ usag
 
 GUI=$(yad --notebook --center --width=900 --height=650 --title="Gerenciador de processos" --text="$TXT" \
     --buttons-layout="center" \
-    --button="filtar por usuario" \
-    --button="matar processo: bash -c './sub-matar.sh'" \
-    --button="Agendar processo:bash -c './sub-agendar.sh'"	\
-    --button="Iniciar processo:bash -c './sub-iniciar.sh'"	\
+    --button="filtar por usuario:bash -c './filtrar.sh'" \
+    --button="matar processo:bash -c './matar.sh'" \
+    --button="Agendar processo:bash -c './agendar.sh'"	\
+    --button="Iniciar processo:bash -c './iniciar.sh'"	\
+    --button="Desliga sistema:bash -c './deligar.sh'"	\
     --button="sair"     \
 	--key=${KEY} --tab="Processos" --tab="Recursos" --tab="Especificações"
     )
