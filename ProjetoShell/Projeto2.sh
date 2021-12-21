@@ -1,3 +1,5 @@
+#! /bin/bash
+
 KEY=123
 controle=1
 while [ "$controle" == 1 ]; do
