@@ -1,0 +1,7 @@
+Nelson www.google.com.br 250
+Arr445 www.testes.com/dbz.wmv 20050
+Nelson www.uol.com.br 300
+teste blablabla 1000
+Vianna debian.org/9.7.0.iso 800555
+teste hdhdhdh 2222222
+teste2 jsjjsjs 22222
